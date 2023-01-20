@@ -1,1 +1,2 @@
 Texto del fichero 1
+Este es el texto del fichero de otraRama
