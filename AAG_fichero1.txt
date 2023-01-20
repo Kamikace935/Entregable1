@@ -1,2 +1,6 @@
 Texto del fichero 1
+<<<<<<< HEAD
 Este es el texto del fichero de otraRama
+=======
+Este es el texto del fichero 1 desde la rama Master
+>>>>>>> 614760c (Edicion del primer fichero desde Master)
