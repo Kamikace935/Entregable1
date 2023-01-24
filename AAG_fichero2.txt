@@ -1,1 +1,1 @@
-Este es el texto del segundo fichero
+Este no es el texto del segundo fichero
